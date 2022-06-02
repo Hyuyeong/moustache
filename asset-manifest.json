@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/moustache/static/css/main.318d388c.css",
-    "main.js": "/moustache/static/js/main.83f94920.js",
-    "index.html": "/moustache/index.html",
-    "main.318d388c.css.map": "/moustache/static/css/main.318d388c.css.map",
-    "main.83f94920.js.map": "/moustache/static/js/main.83f94920.js.map"
+    "main.css": "/test1/static/css/main.318d388c.css",
+    "main.js": "/test1/static/js/main.8ab5b69f.js",
+    "index.html": "/test1/index.html",
+    "main.318d388c.css.map": "/test1/static/css/main.318d388c.css.map",
+    "main.8ab5b69f.js.map": "/test1/static/js/main.8ab5b69f.js.map"
   },
   "entrypoints": [
     "static/css/main.318d388c.css",
-    "static/js/main.83f94920.js"
+    "static/js/main.8ab5b69f.js"
   ]
 }
